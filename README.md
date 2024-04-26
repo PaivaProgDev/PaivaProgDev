@@ -8,8 +8,24 @@
 * 💯 Estudo o Desenvolvimento front-end, por que sou apaixonado com criar interfaces de usuários!
 * 🤞 Não tenho limitações! Meu alvo é ser Full Stack!
 * 🤩 Procuro minha primeira oportunidade de trabalho, e assim, colocar minhas habilidades em prática!
+  
+  <br>
+  
+  <details>
+    <summary>Alguns projetos 🔗</summary>
+    <br>
+    
+    💎 [Meu Portfólio](https://paivaprogdev.github.io/Portfolio/)
+    
+    🐕 [Petshop Dev-Pet](https://paivaprogdev.github.io/Petshop-Site/)
 
-<br>
+    🛍️ [Loja virtual - Paquetá](https://paivaprogdev.github.io/Paqueta-store/)
+
+    
+    
+  </details>
+
+  <br>
 
   <div>
     <a class="abc" href="https://www.linkedin.com/in/guilherme-paiva-33b70521b/">
@@ -21,12 +37,6 @@
   </a>
   </div>
   
-  <br>
-  <br>
-  
-  [Meu Portfólio](https://paivaprogdev.github.io/Portfolio/)
-
-
 ###
 
 <h2 align="center">Tecnologias que tenho habilidades. 👇</h1>
