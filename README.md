@@ -11,10 +11,16 @@
 
 <br>
 
-  <a class="abc" href="https://www.linkedin.com/in/guilherme-paiva-33b70521b/">
+  <div>
+    <a class="abc" href="https://www.linkedin.com/in/guilherme-paiva-33b70521b/">
     <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/ae7bc10c-218a-4a2b-95ae-2cda91c04e9e">
   </a>
-
+  <img width="10">
+  <a class="abc" href="https://wa.me/5537998223255">
+    <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/5dd6ff26-33f5-44b1-afb5-74ccff561a69">
+  </a>
+  </div>
+  
   <br>
   <br>
   
