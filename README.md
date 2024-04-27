@@ -14,16 +14,14 @@
   <details>
     <summary>Alguns projetos 🔗</summary>
     <br>
+
+    ✉️ [Cartão de aniversário](https://paivaprogdev.github.io/Birthday-card/)
     
     💎 [Meu Portfólio](https://paivaprogdev.github.io/Portfolio/)
     
     🐕 [Petshop Dev-Pet](https://paivaprogdev.github.io/Petshop-Site/)
 
-    🛍️ [Loja virtual - Paquetá](https://paivaprogdev.github.io/Paqueta-store/)
-
-    ✉️ [Cartão de aniversário](https://paivaprogdev.github.io/Birthday-card/)
-
-    
+    🛍️ [Loja virtual - Paquetá](https://paivaprogdev.github.io/Paqueta-store/)    
     
   </details>
 
