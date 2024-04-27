@@ -21,6 +21,8 @@
 
     🛍️ [Loja virtual - Paquetá](https://paivaprogdev.github.io/Paqueta-store/)
 
+    ✉️ [Cartão de aniversário](https://paivaprogdev.github.io/Birthday-card/)
+
     
     
   </details>
