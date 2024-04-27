@@ -45,19 +45,19 @@
 
 <div align="left">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/8593564d-d3b1-4c8d-94eb-a4513687edf0">
-  
+<img widht="15">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/ce3f8c3f-d055-4d12-9d29-cf04932ba703">
-
+<img widht="15">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/a20887e0-2a06-4944-aa65-cf036c866d5a">
-
+<img widht="15">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/04e6fdca-1198-4001-8945-abf1a2fa74c6">
-
+<img widht="15">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/de086012-a484-47b4-97d0-8d70e05ab60d">
-
+<img widht="15">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/ee64cc4d-381b-4810-ad52-b0fa473632b7">
-
+<img widht="15">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/c2273154-8b08-47ac-ab5f-11ade58c023c">
-
+<img widht="15">
 <img width="30" src="https://github.com/PaivaProgDev/PaivaProgDev/assets/130389890/a9dbdbc7-fe16-4f91-afab-f9ea1bdac5da">
 
 </div>
