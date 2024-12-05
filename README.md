@@ -15,13 +15,13 @@
     <summary>Alguns projetos 🔗</summary>
     <br>
 
-    ✉️ [Cartão de aniversário](https://paivaprogdev.github.io/Birthday-card/)
+    [Drive Insight]((https://drive-insight.vercel.app/))
     
-    💎 [Meu Portfólio](https://paivaprogdev.github.io/Portfolio/)
+    [Meu Portfólio](https://paivaprogdev.github.io/Portfolio/)
     
-    🐕 [Petshop Dev-Pet](https://paivaprogdev.github.io/Petshop-Site/)
+    [Busca CEP API](https://buscacepapi.vercel.app/)
 
-    🛍️ [Loja virtual - Paquetá](https://paivaprogdev.github.io/Paqueta-store/)    
+    [Gerador de Frases](https://gerador-frasesguidev.vercel.app/)    
     
   </details>
 
